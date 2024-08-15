@@ -1,0 +1,18 @@
+$2b$10$Z7bCkkX69QQ1SkTPrXUmiuRbIjvJjBdFtuHoZQPDifySJsXYstyiG
+pololol
+
+
+create user account
+     mongoose
+     schema
+     model
+     user create kro -> password -> hash
+     jwt token -> cookie
+
+     login -> token -> decrypt -> email 
+
+
+when we create a user we got password what we have written as it in the database page
+we dont want that to happen we have to encrypt the passwprd so that no one shouls get the password easily 
+
+we have to again give token with the user
